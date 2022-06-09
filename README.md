@@ -2,7 +2,7 @@
 2. Responda, quais recursos foram utilizados para resolução desse problema?
 
 
-[]Operadores, variáveis, constantes, função e retorno de função.
+[]Operadores, variáveis, constantes, função e retorno de função.  
 []Variáveis, função e retorno de função.
 []Variáveis, funções, parâmetros e retorno de função.
 [x]Operadores, variáveis, constantes, funções, parâmetros e retorno de função.
