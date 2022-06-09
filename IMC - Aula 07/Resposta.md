@@ -13,8 +13,8 @@
 [F]É possível ter várias instruções com if e switch para múltipla escolha de instruções.  
 [V]É possível ter várias instruções if para múltipla escolha de instruções. No switch, você só tem uma expressão para as várias opções. 
 
-#Colaboradores:
-###1 - Alan Santana
-###2 - Mayara Abreu
-###3 - Luan Victor
-###4 - Hugo Diniz
+Colaboradores:  
+1 - Alan Santana  
+2 - Mayara Abreu  
+3 - Luan Victor  
+4 - Hugo Diniz  
